@@ -21,10 +21,10 @@ cpp STL 에서는 stack을 vector를 사용함으로써 구현했다.
 ```
 
 # Fucntions
-  1. empty()
-    if stack is empty return 1
+  1. empty()<br>
+    >if stack is empty return 1
   2. size()
-    return  the size of stack(length of stack)
+    >return  the size of stack(length of stack)
   3. top
     return last element of stack
   4. push(value)
