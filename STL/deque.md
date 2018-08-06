@@ -23,7 +23,8 @@ ex) deque<int> dq;
 2. **capacity**<br>
  size()<br>
  max_size()<br>
- 현재 deque가 할당받고 있는 전체 size를 반환<br>
+ >현재 deque가 할당받고 있는 전체 size를 반환
+ 
  resize()<br>
  empty()<br>
  shrink_to_fit()<br>
