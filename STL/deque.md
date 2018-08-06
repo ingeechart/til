@@ -23,20 +23,21 @@ ex) deque<int> dq;
 2. **capacity**<br>
  size()<br>
  max_size()<br>
- >현재 deque가 할당받고 있는 전체 size를 반환
- 
+ *현재 deque가 할당받고 있는 전체 size를 반환*
+
  resize()<br>
  empty()<br>
  shrink_to_fit()<br>
- 빈 공간을 다 지운다.
+ *빈 공간을 다 지운다.*
 
 3. **Element access**<br>
 [i]<br>
-i번째 원소 access<br
+i번째 원소 access<br>
 at(i)<br>
-i 번쨰 원소 반환 <br>
+i 번쨰 원소 반환<br>
 front()<br>
 back()<br>
+
 4. **Modifiers**<br>
  assign()<br>
  push_back(data)<br>
